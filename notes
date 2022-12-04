@@ -1,0 +1,54 @@
+/******* Part 1*******/
+
+React JS
+NExt Js
+Tailwind CSS
+Sanity.io
+Framer Motion
+
+
+npx create-next-app@latest --ts portfolio-2.0
+
+- react
+- react-dom
+- next
+- typescript
+- @types/react
+- @types/node
+- @types/react-dom
+- eslint
+- eslint-config-next
+
+npm run dev
+
+install tailwind
+
+in tailwind.config
+-    "./pages/**/*.{js,ts,jsx,tsx)",
+    "./components/**/*.{js,ts,jsx,tsx}",
+
+Header.tsx
+- trcfc
+
+flexbox working
+
+https://jaketrent.github.io/react-social-icons/
+- react social icons
+	https://www.npmjs.com/package/react-social-icons
+	npm install react-social-icons
+
+padding is the key
+
+framer- motiion - is production ready animation
+	lib for react.
+
+
+//Hero
+- section is seo friendly
+- useTypeWriter Hook
+
+React simple TypeWriter
+
+Fragments are used when we need to group a list of children without adding extra nodes to the DOM.
+
+In NExtjs, for using images, you need to use image component
